@@ -1,0 +1,28 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+main {
+  position: absolute;
+  text-align: justify;
+  font-size: 4rem;
+  text-shadow:
+  0.02em 0 white,
+  0 0.02em white,
+  -0.02em 0 white,
+  0 -0.02em white,
+  -0.02em -0.02em white,
+  -0.02em 0.02em white,
+  0.02em -0.02em white,
+  0.02em 0.02em white;
+  text-indent: 10rem;
+}
